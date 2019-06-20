@@ -3,8 +3,8 @@
 The following are the build steps for the project
 
 1. Download and install terraform https://www.terraform.io/downloads.html
-2. Clone the repository git clone https://github.com/prasithtoughboy/terraform_for_GKE_microservices.git
-3. cd terraform_for_GKE_microservices
+2. Clone the repository git clone https://github.com/prasithtoughboy/terraform_with_GKE_redis.git
+3. cd terraform_with_GKE_redis
 4. terraform init
 5. terraform plan
 6. terraform apply
